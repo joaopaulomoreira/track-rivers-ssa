@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "river_name": "Rio das Pedras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.43441367149353,
+          -12.969263665317634
+        ]
+      }
+    }
+  ]
+}
